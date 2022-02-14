@@ -10,7 +10,4 @@ int main(){
 
 
 }
-function ciaobelo(){
 
-	double due;
-}
